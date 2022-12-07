@@ -2,9 +2,11 @@
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
 <div align="center">
+  <img width="200" src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47amp57b6vj16qztf652i7v5q8xunyqhmzwnerkz0x&rid=giphy.gif&ct=s">
   <a href="https://github.com/enzopatryck">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzopatryck&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" width="200" src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47blpt1ddu1n4aavohu9gyz0bmgrep6y4xg3a3xr4a&rid=giphy.gif&ct=s">
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
