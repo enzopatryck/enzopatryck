@@ -1,15 +1,16 @@
-### Hi there! I'm Enzo 👋
+<h1 align="center">Hi 👋, I'm Enzo</h1>
+<h3 align="center">A passionate computer science student from Brazil</h3>
 
-- 🔭 I’m currently studying computer science at UFABC
-- 🌱 I’m currently learning python
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning **Python**
 
 <div align="center">
   <a href="https://github.com/enzopatryck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzopatryck&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/enzopatryck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzopatryck" height="30" width="40" /></a>
+<a href="https://twitter.com/enzopatryck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enzopatryck" height="30" width="40" /></a>
+<a href="https://codepen.io/enzopatryck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="enzopatryck" height="30" width="40" /></a>
+</p>
