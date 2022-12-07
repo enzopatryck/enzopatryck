@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">A passionate computer science student from Brazil</h3>
-<img align="right" alt="boy coding" width="400" scr="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" width="200" src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47blpt1ddu1n4aavohu9gyz0bmgrep6y4xg3a3xr4a&rid=giphy.gif&ct=s">
 - 🌱 I’m currently learning **Python**
 
 <div align="center">
